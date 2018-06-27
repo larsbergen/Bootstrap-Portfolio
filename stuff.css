@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.link {
+    position: static;
+    float: right;
+}
+.row {
+    position: absolute;
+    height: 100%;
+}
+.col-md-8 {
+margin: 10px;
+background-color: white;
+border-style: ridge;
+border-width: 5px;
+}
+.col-md-2 {
+margin: 10px;
+background-color: white;
+border-style: ridge;
+border-width: 5px;
+}
